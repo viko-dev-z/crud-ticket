@@ -4,6 +4,9 @@ package com.example.crudticket.model;
  * TicketBuilder Fluent API class that helps create a Ticket instance.
  * This class is a factory that creates a Ticket with a description
  * or with a particular ID.
+ *
+ * @author Victor
+ * @version 1.0
  */
 public class TicketBuilder {
 

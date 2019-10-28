@@ -24,6 +24,9 @@ import java.time.LocalDateTime;
  * @NoArgsConstructor. This annotation belongs to the Lombok library.
  * It creates a class constructor with no arguments. It is required that
  * JPA have a constructor with no arguments.
+ *
+ * @author Victor
+ * @version 1.0
  */
 @Entity
 @Data
